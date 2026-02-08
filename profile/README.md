@@ -1,25 +1,11 @@
-## 你好👋这里是山西大学自软算法竞赛队
+## Hi 👋 这里是山西大学自软算法竞赛队
 
-<!--
+我们有 3 个代码库
 
-**Here are some ideas to get you started:**
+- [MergeResolver](https://github.com/SXUas-acm-team/MergeResolver),牛客比赛数据与HOJ比赛数据统一并输出DOMjudge事件流用于滚榜
+- [icpctools](https://github.com/SXUas-acm-team/icpctools),二次开发的滚榜工具
+- [SXUOJ](https://github.com/SXUas-acm-team/SXUOJ),二次开发的自有OJ
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+我们的 [OJ](https://oj.gwy.fun) 欢迎来玩喵_(:з」∠)_
 
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+相关的[整活视频](https://www.bilibili.com/video/BV1kCsoz2E9o/)✿ヽ(°▽°)ノ✿

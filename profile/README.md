@@ -7,5 +7,3 @@
 - [SXUOJ](https://github.com/SXUas-acm-team/SXUOJ),二次开发的自有OJ
 
 我们的 [OJ](https://oj.gwy.fun) 欢迎来玩喵_(:з」∠)_
-
-相关的[整活视频](https://www.bilibili.com/video/BV1kCsoz2E9o/)✿ヽ(°▽°)ノ✿
